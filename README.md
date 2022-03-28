@@ -1,4 +1,4 @@
-## Optimize all 86400 seconds of each day 
+## 86400.GURU
 
 86400.GURU is hosted on [Github Pages](https://pages.github.com/); of course, this means that the [entire repository](https://github.com/86400guru/86400guru.github.io/) is meant to be forked and used for your purposes.
 
