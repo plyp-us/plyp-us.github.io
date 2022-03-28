@@ -6,7 +6,9 @@ It uses [Github Pages](https://pages.github.com/) because the [entire repository
 
 This [README.md page](https://github.com/86400guru/86400guru.github.io/blob/main/README.md) is a top-level list of annotated lists of awesome lifehacks and time management materials that are available. The best way for anyone to master and improve these tools is to really ***use*** them ... in order to share your lessons with others. *Nobody learns more in any form of classroom than the one teaching the lesson.*
 
-### Make others more productive
+### Be a ***10Xer***
+
+Making yourself 10X more productive is HUGE ... but it is not [just] about your productity ... the extra ten X's come from others; being a ***10Xer*** about making others much more productive ... it's huge deal if you can make 25 people around you 40% more productive ... but it is similarly huge if you can make 250 people 4% more productive.
 
 Really ***using*** these tools means that they must be internalized and or made habitual and second-nature; it's not enough to read over the list and think, "Meh, that's looks good; I'll do that" -- it is necessary to actually plan how to change your habits to USE the tool with the intention of mastering it, in production and under stress, for significant periods of time, eg a month or longer. 
 
