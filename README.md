@@ -8,7 +8,7 @@ This [README.md page](https://github.com/86400guru/86400guru.github.io/blob/main
 
 ### Be a ***10Xer***
 
-Making yourself 10X more productive is HUGE ... but it is not [just] about your productity ... the extra ten X's come from others; being a ***10Xer*** about making others much more productive ... it's huge deal if you can make 25 people around you 40% more productive ... but it is similarly huge if you can make 250 people 4% more productive.
+Making yourself 10X more productive is HUGE ... but it is not [just] about your productity ... the extra ten X's come from others; being a ***10Xer*** about making others much more productive ... it's huge deal if you can make 25 people around you 40% more productive ... but it is similarly huge if you can make 250 people 4% more productive ... it might be best to aim at making 2500 people just 0.4% (an unnoticeable amount; something that they will take for granted) more productive. ***Aim lower***, *stay anonymous and uncredited* but still go after that 10X.
 
 Really ***using*** these tools means that they must be internalized and or made habitual and second-nature; it's not enough to read over the list and think, "Meh, that's looks good; I'll do that" -- it is necessary to actually plan how to change your habits to USE the tool with the intention of mastering it, in production and under stress, for significant periods of time, eg a month or longer. 
 
