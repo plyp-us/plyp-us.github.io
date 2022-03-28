@@ -16,9 +16,13 @@ Of course, you will encounter failures or sources of pain with things that just 
 
 If you are thinking critically but optimistically as you go along, you will notice subtle ways that even a great tool could be improved. Sharing your frustrations and development attempts or other efforts to improve execution will not just make your own time management system robust or possibly even antifragile against those failures ... it  will also make your you stronger, more empathetic, more of a 10Xer as you try to help others. 
 
-### KNOW YOUR WHY
+### KNOW your WHY
 
-The first and most important principle of time optimization is that you must KNOW YOUR OWN UNIQUE WHY ... and you must also understand why you never really know your own unique why well-enough ... there's always another facet, maybe another level of depth, another thing to learn from somebody else *even after you thinked you've mastered it all*.
+Don't just know it, like "*Yeah, I know my why*" but then you don't really use it to shape your day ... you have to KNOW your WHY and also continue pursue KNOWING your WHY better ***passionately.***
+  
+The first and most important principle of time optimization is internalization of this passion ... you must KNOW YOUR OWN UNIQUE WHY ... and you must also understand why you do not really know your own unique why well enough yet.
+
+There's always another facet, maybe another level of depth, another random thing you didn't see coming, something to learn from somebody else *especially after that point when you thinked you've mastered it all*.
 
 Every last thing in this repository is geared toward that all-important set of tasks which are all about really understanding YOUR OWN life's mission and then devise YOUR OWN strategy for optimizing your OWN time in order to accomplish YOUR OWN life's mission accordingly ... there's nothing here that is about giving the appearance of having your life organized according to someone else's plan. The entire reason for the existence of this repository is for YOU to think deeply about time management in YOUR life for YOUR purposes. It's YOUR time ... it's up to YOU to learn skills to better optimize YOUR time.  
 
