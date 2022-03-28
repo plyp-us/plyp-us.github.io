@@ -4,7 +4,9 @@
 
 It uses [Github Pages](https://pages.github.com/) because the [entire repository](https://github.com/86400guru/86400guru.github.io/) is meant to be forked and then changed, edited, revised and optimized for your own purposes. 
 
-### The first and most important principle of time optimization is that you must KNOW YOUR OWN UNIQUE WHY.
+### KNOW YOUR WHY
+
+The first and most important principle of time optimization is that you must KNOW YOUR OWN UNIQUE WHY ... and you must also understand why you never really know your own unique why well-enough ... there's always another facet, maybe another level of depth, another thing to learn from somebody else *even after you thinked you've mastered it all*.
 
 Every last thing in this repository is geared toward that all-important set of tasks which are all about really understanding YOUR OWN life's mission and then devise YOUR OWN strategy for optimizing your OWN time in order to accomplish YOUR OWN life's mission accordingly ... there's nothing here that is about giving the appearance of having your life organized according to someone else's plan. The entire reason for the existence of this repository is for YOU to think deeply about time management in YOUR life for YOUR purposes. It's YOUR time ... it's up to YOU to optimize YOUR time.  
 
