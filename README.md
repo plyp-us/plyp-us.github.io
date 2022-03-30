@@ -67,3 +67,7 @@ You cannot afford all of the cost and time-wasting that comes from putting banda
 ***Consider the lilies of the field!*** NEVER EVER sit when you have good legs and could stand without being in pain or unable to work. Don't opt for comfort whenever a little bit of discomfort, eg setting your thermostate closer to outdoor temperature, will make you healthier and better acclimated to spend more time in Nature.
 
 People lead lives of [almost] comfortable PATHOLOGICAL FEAR ... because they are afraid of minor discomforts and they let their fears and worries occupy their entire minds.
+
+## Be a commitizen
+
+Practice open source community. Learn the skills that you need to learn in order to participate as a commitizen.  Make open source communities better through your ideas, your participation, your humor.
