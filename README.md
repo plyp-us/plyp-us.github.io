@@ -55,3 +55,9 @@ Minimalism is an ANTI-religion. It's AGAINST the foolish religion of evaluating 
 Minimalism is about FREEING yourself from slavery of Bad Religion ... it is very much ANTI-all of the religious programming you will get through advertisements. 
 
 Preach to yourself first, but preach to others so that you will hear yourself in the echos or even rebukes of those listening to you ... PREACHING minimalism will make you a stronger minimalist ... because the anti-minimalists will certainly attack you.
+
+## Be Mister Root Cause
+
+Be known as the guy who always asks five more levels of WHY ... after everyone has a bandaid to put on a problem.
+
+You cannot afford all of the cost and time-wasting that comes from putting bandaids on problems rather than going after the root case.  ***Be Mr. Root Cause.***  Be that annoying guy.
