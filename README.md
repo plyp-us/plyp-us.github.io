@@ -52,7 +52,7 @@ Refuse to accept isolationist tendencies from crybabies ... instead push for imp
 
 One manifestation of this is job boards ... gather intell from what people are needing in terms of talent to not only ensure that you are also stacking up those skills, but to also start understanding trends to understand the curve of the game to get a sense of where your industry will be going a year, five years, ten years from now ... NEVER STOP looking at the auction, but at some point it is up to you to accelerate the negotiation. AUCTUS!
 
-## BE minimalism
+## Minimalist
 
 Minimalism is an ANTI-religion. It's AGAINST the foolish religion of evaluating your life based upon the things that you have and can show off to others. Most of the advertisements that you will see are all about the Religion of Showing Off Your Nice Things ... new cars, better homes, furnishings, insurance for stuff, retirement plans for vacations or dining, gadgets to help you be abetter gadget.
 
@@ -76,15 +76,15 @@ Never opt for comfort. Never drive when you can walk to strenghten your muscles 
 
 People lead lives of [almost] comfortable PATHOLOGICAL FEAR ... because they are afraid of minor discomforts and they let their fears and worries occupy their entire minds.
 
-## Be a commitizen
+## Commitizen
 
-Practice open source community. Learn the skills that you need to learn in order to participate as a commitizen.  Make open source communities better through your ideas, your participation, your humor ... but mostly ENJOY it and LEARN.
+***Be*** a *commitizen* ... that means *practice* open source community. Learn the skills that you need to learn in order to participate as a commitizen.  Make open source communities better through your ideas, your participation, your humor ... but mostly ENJOY it and LEARN.
 
 Learn toolchains. Learn patterns and methodologies. Learn languages ... but most of all LEARN OTHER POINTS OF VIEW.
 
-## Be Yourself
+## Love Others As You Love Yourself
 
-What that really means is ... ***NEVER try to be liked!!!***
+What that really means is ... respect yourself enough to **not like** your inadequacies and show similar respect for others and ***NEVER try to be liked!!!***
 
 Try to be yourself. Don't try to fit in ... you don't need to be rude -- just avoid people who insist on being idiots when they insist upon being idiots. NEVER try to be liked ... just try to be a better version of YOU in ways that YOU know that you need to improve. 
 
