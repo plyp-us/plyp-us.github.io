@@ -35,3 +35,11 @@ The second principle of 86400.GURU time management discipline is going to be sim
 ## GIT Your GYG
 
 Use Git, follow the Git dev listserv, improve Git, improve Git Flow, Improve open source Git workflow CI/CD tools ... recursively Gitify everything about your professional existence. That includes, or maybe starts with your business intelligence gathering activities ... for your next job search OR your next talent acquistion search for your next startup OR your commitizen search for your next open source project. Gitify everything in your professional workflow and time management discipline ... personal habits are amenable to the infrastructure-as-code philosophy. Gitify everything. Git Your GYG. 
+
+## AUCT.us Accelerate Negotiations
+
+Play the game, understand the game, play the game better, faster, more competitively.
+
+Refuse to accept isolationist tendencies from crybabies ... instead push for improving the rules of the game, improving the fairness of competition ... but push for better and more competition.
+
+One manifestation of this is job boards ... gather intell from what people are needing in terms of talent to not only ensure that you are also stacking up those skills, but to also start understanding trends to understand the curve of the game to get a sense of where your industry will be going a year, five years, ten years from now ... NEVER STOP looking at the auction, but at some point it is up to you to accelerate the negotiation. AUCTUS!
