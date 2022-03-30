@@ -44,6 +44,14 @@ Refuse to accept isolationist tendencies from crybabies ... instead push for imp
 
 One manifestation of this is job boards ... gather intell from what people are needing in terms of talent to not only ensure that you are also stacking up those skills, but to also start understanding trends to understand the curve of the game to get a sense of where your industry will be going a year, five years, ten years from now ... NEVER STOP looking at the auction, but at some point it is up to you to accelerate the negotiation. AUCTUS!
 
-# Improve Your Immune Respone
+## Improve Your Immune Respone
 
 Ditch your addictions. Make yourself less vulnerable, more antifragile. Use hormesis to make yourself stronger as a result of encountering things that tried to kill you.
+
+## Preach minimalism
+
+Minimalism is an ANTI-religion. It's AGAINST the foolish religion of evaluating your life based upon the things that you have and can show off to others. Most of the advertisements that you will see are all about the Religion of Showing Off Your Nice Things ... new cars, better homes, furnishings, insurance for stuff, retirement plans for vacations or dining, gadgets to help you be abetter gadget.
+
+Minimalism is about FREEING yourself from slavery of Bad Religion ... it is very much ANTI-all of the religious programming you will get through advertisements. 
+
+Preach to yourself first, but preach to others so that you will hear yourself in the echos or even rebukes of those listening to you ... PREACHING minimalism will make you a stronger minimalist ... because the anti-minimalists will certainly attack you.
