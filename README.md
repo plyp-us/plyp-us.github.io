@@ -70,4 +70,14 @@ People lead lives of [almost] comfortable PATHOLOGICAL FEAR ... because they are
 
 ## Be a commitizen
 
-Practice open source community. Learn the skills that you need to learn in order to participate as a commitizen.  Make open source communities better through your ideas, your participation, your humor.
+Practice open source community. Learn the skills that you need to learn in order to participate as a commitizen.  Make open source communities better through your ideas, your participation, your humor ... but mostly ENJOY it and LEARN.
+
+Learn toolchains. Learn patterns and methodologies. Learn languages ... but most of all LEARN OTHER POINTS OF VIEW.
+
+## Never try to be liked
+
+Try to be yourself. Don't try to fit in ... you don't need to be rude -- just avoid people who insist on being idiots when they insist upon being idiots. NEVER try to be liked ... just try to be a better version of YOU in ways that YOU know that you need to improve. 
+
+For example, are you exercising or eating as you should -- what do YOU need to change. There's a 100% gaurantee that you don't need somebody's approval or someone to like you in order for you to work harder on your exercise regimen OR to eat healthier and swallow fewer intoxicants to sample the local club/microbrew scene. 
+
+***NEVER try to be liked*** ... because when you do that, you end up being liked by IDIOTS who like you because they expect that you will try so hard to be like that you will help them or maybe pay their bills.
