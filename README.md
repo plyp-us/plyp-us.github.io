@@ -43,3 +43,7 @@ Play the game, understand the game, play the game better, faster, more competiti
 Refuse to accept isolationist tendencies from crybabies ... instead push for improving the rules of the game, improving the fairness of competition ... but push for better and more competition.
 
 One manifestation of this is job boards ... gather intell from what people are needing in terms of talent to not only ensure that you are also stacking up those skills, but to also start understanding trends to understand the curve of the game to get a sense of where your industry will be going a year, five years, ten years from now ... NEVER STOP looking at the auction, but at some point it is up to you to accelerate the negotiation. AUCTUS!
+
+# Improve Your Immune Respone
+
+Ditch your addictions. Make yourself less vulnerable, more antifragile. Use hormesis to make yourself stronger as a result of encountering things that tried to kill you.
