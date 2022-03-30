@@ -60,4 +60,10 @@ Preach to yourself first, but preach to others so that you will hear yourself in
 
 Be known as the guy who always asks five more levels of WHY ... after everyone has a bandaid to put on a problem.
 
-You cannot afford all of the cost and time-wasting that comes from putting bandaids on problems rather than going after the root case.  ***Be Mr. Root Cause.***  Be that annoying guy.
+You cannot afford all of the cost and time-wasting that comes from putting bandaids on problems rather than going after the root case.  ***Be Mr. Root Cause.***  Be that annoying CURIOUS guy.
+
+## Never Drive When You Can Walk
+
+***Consider the lilies of the field!*** NEVER EVER sit when you have good legs and could stand without being in pain or unable to work. Don't opt for comfort whenever a little bit of discomfort, eg setting your thermostate closer to outdoor temperature, will make you healthier and better acclimated to spend more time in Nature.
+
+People lead lives of [almost] comfortable PATHOLOGICAL FEAR ... because they are afraid of minor discomforts and they let their fears and worries occupy their entire minds.
