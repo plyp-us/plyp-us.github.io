@@ -42,13 +42,15 @@ The second principle of 86400.GURU time management discipline is going to be sim
 
 Use Git, follow the Git dev listserv, improve Git, improve Git Flow, Improve open source Git workflow CI/CD tools ... recursively Gitify everything about your professional existence. That includes, or maybe starts with your business intelligence gathering activities ... for your next job search OR your next talent acquistion search for your next startup OR your commitizen search for your next open source project. Gitify everything in your professional workflow and time management discipline ... personal habits are amenable to the infrastructure-as-code philosophy. Gitify everything. Git Your GYG. 
 
-## AUCTUS!
+## Auctus!!!
 
-Accelerate all games negotiations! LEAD with the drumbeat of competition.
+Always INCREASE!!!  Accelerate all games negotiations! LEAD with the drumbeat of competition.
 
 When you encounter a new game ... learn the rules, maybe play the game, understand the mindset of other players in the game, play the game better, faster, at a deeper level, more competitively.
 
 Trade and business are one such a game. MASTER business and trade ... never be a crybaby if you can't play the game. LEARN to compete.
+
+*Auctus means ***ALWAYS INCREASE!!!*** ... always look around the world for the best alternative and then go that one better. ALWAYS INCREASE. That's what competition is about. COMPETE.
 
 Refuse to accept isolationist tendencies from crybabies ... instead push for improving the rules of the game, improving the fairness of competition ... but push for better and more competition.
 
