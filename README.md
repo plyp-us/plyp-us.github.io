@@ -38,10 +38,6 @@ The best way to optimize your time is actually to optimize the time management o
 
 The second principle of 86400.GURU time management discipline is going to be similarly difficult for some to embrace. Open source development is truly revolutionary in terms of what it means for time management in a macro sense. Through your own efforts, your work at making open source development work much better by using it will have gigantic impacts on even the smallest elements of your life, such as your time management discipline and where your day goes.
 
-## GIT Your GYG
-
-Use Git, follow the Git dev listserv, improve Git, improve Git Flow, Improve open source Git workflow CI/CD tools ... recursively Gitify everything about your professional existence. That includes, or maybe starts with your business intelligence gathering activities ... for your next job search OR your next talent acquistion search for your next startup OR your commitizen search for your next open source project. Gitify everything in your professional workflow and time management discipline ... personal habits are amenable to the infrastructure-as-code philosophy. Gitify everything. Git Your GYG. 
-
 ## Auctus!!!
 
 Always INCREASE!!!  Accelerate all games negotiations! LEAD with the drumbeat of competition.
@@ -55,12 +51,6 @@ Trade and business are one such a game. MASTER business and trade ... never be a
 Refuse to accept isolationist tendencies from crybabies ... instead push for improving the rules of the game, improving the fairness of competition ... but push for better and more competition.
 
 One manifestation of this is job boards ... gather intell from what people are needing in terms of talent to not only ensure that you are also stacking up those skills, but to also start understanding trends to understand the curve of the game to get a sense of where your industry will be going a year, five years, ten years from now ... NEVER STOP looking at the auction, but at some point it is up to you to accelerate the negotiation. AUCTUS!
-
-## Remove Vulnerabilities
-
-It is up to you to work EACH DAY at materially improving your immune response ... YOU can get stronger ... or you can shirk your responsiblity for your health and get weaker before you die.
-
-Ditch your addictions. Make yourself less vulnerable, more antifragile. Use hormesis to make yourself stronger as a result of encountering things that tried to kill you.
 
 ## BE minimalism
 
@@ -101,3 +91,19 @@ Try to be yourself. Don't try to fit in ... you don't need to be rude -- just av
 For example, are you exercising or eating as you should -- what do YOU need to change. There's a 100% gaurantee that you don't need somebody's approval or someone to like you in order for you to work harder on your exercise regimen OR to eat healthier and swallow fewer intoxicants to sample the local club/microbrew scene. 
 
 ***NEVER try to be liked*** ... because when you do that, you end up being liked by IDIOTS who like you because they expect that you will try so hard to be like that you will help them or maybe pay their bills.
+
+## Remove Weakness
+
+We all have vulnerabilities, co-morbidities, temporarily important shortcomings or deficiencies in our talents ... but given those exogenously determined parameters or constraints, we can endogenously determine our own ways to overcome and ultimately remove or overthrow those weaknesses ... given enough time, with diligent discipline, we can invent ways around barrriers.
+
+***We are RESPONSIBLE for removing our own weaknesses*** ... that is really what REAL human dignity is about ... it's not about covering our weaknesses with an elaborate tent of excuses. The efforts to REMOVE weakness are what REAL human dignity is about ... and we should be cautious about removing that responsibility for anyone ... we should not take away the struggle; we should help others find the way to overcome the struggle with their own resources and ingenuity, but it's difficult to artfully help in a manner such as that.
+
+It is up to you to work EACH DAY at materially improving your immune response ... YOU can get stronger ... or you can shirk your responsiblity for your health and get weaker before you die.
+
+Ditch your addictions. Make yourself less vulnerable, more antifragile. Use hormesis to make yourself stronger as a result of encountering things that tried to kill you.
+
+## GIT Your GYG
+
+Use Git, follow the Git dev listserv, improve Git, improve Git Flow, Improve open source Git workflow CI/CD tools ... recursively Gitify everything about your professional existence. That includes, or maybe starts with your business intelligence gathering activities ... for your next job search OR your next talent acquistion search for your next startup OR your commitizen search for your next open source project. Gitify everything in your professional workflow and time management discipline ... personal habits are amenable to the infrastructure-as-code philosophy. Gitify everything. Git Your GYG. 
+
+
