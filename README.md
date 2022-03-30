@@ -6,9 +6,15 @@ It uses [Github Pages](https://pages.github.com/) because the [entire repository
 
 This [README.md page](https://github.com/86400guru/86400guru.github.io/blob/main/README.md) has a top-level list of several annotated lists of awesome lifehacks and time management materials that are available. The best way for anyone to master and improve these tools is to really ***use*** them ... in order to share your lessons with others. *Nobody learns more in any form of classroom than the one teaching the lesson.*
 
-### Be a ***10Xer***
+### 10X-er
 
-Making yourself 10X more productive is HUGE; you must recognize WHY it is not [just] about your productity.
+10X means 10X as productive. 
+
+Making yourself into a 10X-er is a HUGE transformation for most people.
+
+You must recognize WHY it is not *just* about your productity ... it's about leading with the discipline of a continuously improving mindset ... it's about infecting others with the continuous improvement virus. 
+
+***Being a 10X-er is NOT mere optimism ... it's a DRIVEN form of personal one-on-one activism.***
 
 Yes, the extra ten X's of productivity come from others around you. But BEING a ***10Xer*** is about caring enough to risk being unliked for awhile -- making others much more productive is about getting others to change course a bit, to level up their game.  Now, it would be huge deal if you can make 25 people around you 40% more productive and that's certainly achievable when people improve EVERY day, day after day, for ALL 365 days each year. But it is similarly huge if you can make 250 people 4% more productive, ie just get them to adopt or internalize one little tip or hint. But in the larger analysis, it might be best to aim at making 2500 people just 0.4% better OR 25,000 people 0.04% more productive (by practically unnoticeable amounts; something that they will take for granted). When it comes to being a 10Xer, ***Aim LOWER*** accolade-wise, *stay anonymous and uncredited* but relentlessly dive deeper to go after that 10X.
 
@@ -36,19 +42,25 @@ The second principle of 86400.GURU time management discipline is going to be sim
 
 Use Git, follow the Git dev listserv, improve Git, improve Git Flow, Improve open source Git workflow CI/CD tools ... recursively Gitify everything about your professional existence. That includes, or maybe starts with your business intelligence gathering activities ... for your next job search OR your next talent acquistion search for your next startup OR your commitizen search for your next open source project. Gitify everything in your professional workflow and time management discipline ... personal habits are amenable to the infrastructure-as-code philosophy. Gitify everything. Git Your GYG. 
 
-## AUCT.us Accelerate Negotiations
+## AUCTUS!
 
-Play the game, understand the game, play the game better, faster, more competitively.
+Accelerate all games negotiations! LEAD with the drumbeat of competition.
+
+When you encounter a new game ... learn the rules, maybe play the game, understand the mindset of other players in the game, play the game better, faster, at a deeper level, more competitively.
+
+Trade and business are one such a game. MASTER business and trade ... never be a crybaby if you can't play the game. LEARN to compete.
 
 Refuse to accept isolationist tendencies from crybabies ... instead push for improving the rules of the game, improving the fairness of competition ... but push for better and more competition.
 
 One manifestation of this is job boards ... gather intell from what people are needing in terms of talent to not only ensure that you are also stacking up those skills, but to also start understanding trends to understand the curve of the game to get a sense of where your industry will be going a year, five years, ten years from now ... NEVER STOP looking at the auction, but at some point it is up to you to accelerate the negotiation. AUCTUS!
 
-## Improve Your Immune Respone
+## Remove Vulnerabilities
+
+It is up to you to work EACH DAY at materially improving your immune response ... YOU can get stronger ... or you can shirk your responsiblity for your health and get weaker before you die.
 
 Ditch your addictions. Make yourself less vulnerable, more antifragile. Use hormesis to make yourself stronger as a result of encountering things that tried to kill you.
 
-## Preach minimalism
+## BE minimalism
 
 Minimalism is an ANTI-religion. It's AGAINST the foolish religion of evaluating your life based upon the things that you have and can show off to others. Most of the advertisements that you will see are all about the Religion of Showing Off Your Nice Things ... new cars, better homes, furnishings, insurance for stuff, retirement plans for vacations or dining, gadgets to help you be abetter gadget.
 
@@ -56,13 +68,17 @@ Minimalism is about FREEING yourself from slavery of Bad Religion ... it is very
 
 Preach to yourself first, but preach to others so that you will hear yourself in the echos or even rebukes of those listening to you ... PREACHING minimalism will make you a stronger minimalist ... because the anti-minimalists will certainly attack you.
 
-## Be Mister Root Cause
+## Mr. Root Cause
 
-Be known as the guy who always asks five more levels of WHY ... after everyone has a bandaid to put on a problem.
+Be known as Mr. Root Cause, the guy who always asks five more levels of WHY ... after everyone else has a bandaid to put on a problem, grabbed a beer and has forgotten about the problem or the bandaid ... don't talk shop at the bar ... avoid the bar, stay in the shop and be more curious ... or stop fucking around with a job you hate just because it pays your bar tab.
 
-You cannot afford all of the cost and time-wasting that comes from putting bandaids on problems rather than going after the root case.  ***Be Mr. Root Cause.***  Be that annoying CURIOUS guy.
+Stop being a drunk or an addict ... be Mr. Root Cause.
 
-## Never Drive When You Can Walk
+You cannot afford all of the cost and time-wasting that comes from putting bandaids on problems rather than going after the root case.  ***Be Mr. Root Cause.***  Be that annoying CURIOUS guy ... curiosity pays much better than drug addiction, alcoholism or teevee watching.
+
+## Never Worry
+
+Never opt for comfort. Never drive when you can walk to strenghten your muscles and skeleton and enjoy the great outdoors. Never ride an elevator when you can run the stairs. If you don't want to worry, you have to habitually look for opportunities ... especially opportunities to exercise.
 
 ***Consider the lilies of the field!*** NEVER EVER sit when you have good legs and could stand without being in pain or unable to work. Don't opt for comfort whenever a little bit of discomfort, eg setting your thermostate closer to outdoor temperature, will make you healthier and better acclimated to spend more time in Nature.
 
@@ -74,7 +90,9 @@ Practice open source community. Learn the skills that you need to learn in order
 
 Learn toolchains. Learn patterns and methodologies. Learn languages ... but most of all LEARN OTHER POINTS OF VIEW.
 
-## Never try to be liked
+## Be Yourself
+
+What that really means is ... ***NEVER try to be liked!!!***
 
 Try to be yourself. Don't try to fit in ... you don't need to be rude -- just avoid people who insist on being idiots when they insist upon being idiots. NEVER try to be liked ... just try to be a better version of YOU in ways that YOU know that you need to improve. 
 
