@@ -4,13 +4,15 @@
 
 It uses [Github Pages](https://pages.github.com/) because the [entire repository](https://github.com/86400guru/86400guru.github.io/) is meant to be forked and then changed, edited, revised and optimized for your own purposes. 
 
-This [README.md page](https://github.com/86400guru/86400guru.github.io/blob/main/README.md) has a top-level list of several annotated lists of awesome lifehacks and time management materials that are available. The best way for anyone to master and improve these tools is to really ***use*** them ... in order to share your lessons with others. *Nobody learns more in any form of classroom than the one teaching the lesson.*
+This [README.md page](https://github.com/86400guru/86400guru.github.io/blob/main/README.md) is a top-level list of several annotated lists of awesome lifehacks and time management materials that are available. 
+
+The best way for anyone to master and improve skill on these lists is to really ***use*** the tools ... in order to more knowledgably, more competently share the impact of your lessons with others. *Nobody learns more in any form of classroom than the one teaching the lesson.*
 
 ### 10X-er
 
-10X means 10X as productive. 
+Being a 10X-er means replicating your skills to be more productive to at least ten other people. 
 
-Making yourself into a 10X-er is a HUGE transformation for most people.
+Making yourself into a 10X-er is a HUGE transformation for most people ... although it might be possible that some are naturally gifted in this form of emotional and social intelligence. This transcendance 
 
 You must recognize WHY it is not *just* about your productity ... it's about leading with the discipline of a continuously improving mindset ... it's about infecting others with the continuous improvement virus. 
 
@@ -26,7 +28,7 @@ If you are thinking critically but optimistically as you go along, you will noti
 
 ### KNOW your WHY
 
-Don't just know it, like "*Yeah, I know my why*" but then you don't really use it to shape your day ... you have to KNOW your WHY and also continue pursue KNOWING your WHY better ***passionately.***
+Don't just know it, like "*Yeah, I know my why*" but then you don't really use it to shape your day ... you have to KNOW your WHY and also continue pursue KNOWING your WHY better ***passionately.***  
   
 The first and most important principle of time optimization is internalization of this passion ... you must KNOW YOUR OWN UNIQUE WHY ... and you must also understand why you do not really know your own unique why well enough yet.
 
@@ -40,7 +42,7 @@ The second principle of 86400.GURU time management discipline is going to be sim
 
 ## Auctus!!!
 
-Always INCREASE!!!  Accelerate all games negotiations! LEAD with the drumbeat of competition.
+Always INCREASE!!  Compete! Compete! Compete!  Accelerate all games negotiations! LEAD with the drumbeat of competition.
 
 When you encounter a new game ... learn the rules, maybe play the game, understand the mindset of other players in the game, play the game better, faster, at a deeper level, more competitively.
 
