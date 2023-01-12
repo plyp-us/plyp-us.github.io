@@ -1,1 +1,9 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: 86400.guru
+email: MarkBruns@MarkBruns.com
+description: Discipline Equals Freedom. With intention in each waking moment to improve your discipline optimizing ALL 86400 seconds in each day. Fork this; make it your own.
+twitter_username: MarkBruns
+github_username:  MarkBruns
+
+# Build settings
+markdown: kramdown
