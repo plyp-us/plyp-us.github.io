@@ -1,28 +1,32 @@
 ---
 layout: post
-title:  "Annotated Curated Listification Starts With Brainstorming"
-date:   2022-02-01 4:30:00
+title:  "Brainstorming on Brainstorming"
+date:   2023-01-01 4:30:00
 categories: template
 ---
 
 
-# Curated Reading Collection Template
+# Brainstorming The Discipline of Brainstorming
 
-To really brainstorm, we need to PUSH a bit on brainstorming ... we cannot afford to just look at the top three or five as we normally do with *googlestorming* ideation. We really need to ***PUSH.***
+To really brainstorm, we need to PUSH a bit on building the discipline of brainstorming itself.
 
-in listification, we want to have roughly 125 pretty good ideas in the hopper. We will try to get to each of these sometime in the next 3 months, but the lower 100 are *on the bubble*. The 25 most important list items we work on at least once a month.
+We cannot afford to just look at the top three or five as we normally do with *googlestorming* ideation. We really need to ***PUSH*** a bit harder and think ... or maybe daydream, or *BRAINSTORM* how we might improve brainstorming itself in the modern world of AI-assisted ideation.
+
+To brainstorm, we want to have roughly 125 pretty good ideas in the hopper ... we will try to get to each of these GOOD ideas sometime in the next 3 months, but the lower 100 will always be *on the bubble* as we ideate a better set of 100. 
+
+The 25 keepers will most important list items we work on at least once a month.
 
 Our top five list ... which might be closer to what everyone tends to think of as a *normal* ToDo list are those top five things that we will touch on at least once in the coming week.
 
 Of course, our focus will be one the ONE main one ... the biggie that we are really focusing on, trying to get right.
 
-1) [Newsreaders](https://github.com/topics/rss-reader?o=desc&s=forks) ... especially for pre-print archives
+1) [Newsreaders](https://github.com/topics/rss-reader?o=desc&s=forks) ... the RSSistant ... especially with a focus on RSS feeds from things like pre-print archives that are improving daily.
 
 2) Classics and Classic commentary
 
 3) Peer-reviewed Scientific Journals
 
-4) Poetry
+4) Poetry, outside the box thinking
 
 5) Martial arts, self-defense
 
@@ -34,17 +38,17 @@ Of course, our focus will be one the ONE main one ... the biggie that we are rea
 
 9) Architecture, particularly parks and green spaces
 
-10) Ecosystems, nature,
+10) Ecosystems, nature, ecology, wildness with structure
 
 11) Physics
 
 12) Mathematics
 
-13) Chemistry
+13) Chemistry, ab initio or first principles chemistry, for material science and quantum computing
 
 14) Meta Wikipedia, Wikipedians, General wikiculture
 
-15) Philosophy
+15) Philosophy, logic, semiotics
 
 16) Music, Music AI, Music Metadata
 
@@ -266,14 +270,4 @@ Of course, our focus will be one the ONE main one ... the biggie that we are rea
 
 125)
 
-# Exploratory / Wild Brainstorm Lists ... *which might become reading lists*
-
-
-* 
-
-* 
-
-* 
-
-* 
 
