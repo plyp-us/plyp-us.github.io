@@ -8,7 +8,9 @@ categories: template
 
 # You get 86400 secs/day, 30 or 31 days/month.
 
-*We train constantly, but we don't JUST train ... WE TRAIN WITH INTENTION ... and that habit, or the discipline of increasing freedom, occupies our mind in each second of the 86400 second day.*
+We use EVERY second.
+
+*We train* ***constantly***, *but we don't JUST train ... WE TRAIN WITH CONSTANCY OF INTENTION ... and that SECOND-by-SECOND habit, or the discipline of constant focus on increasing freedom, occupies our mind in each second of the 86400 second day.*
 
 As we try to train, working on our improving our DISCIPLINE.  When we repeat our mantra that ***DISCIPLINE equals FREEDOM*** we mean that we train mentally and physically being present and focused in **each second** of our 86400 second day ... so that we develop discipline WITH MINDFUL INTENTION in order to establish the habit of becoming more FREE than we are now.  *We train constantly, but we don't JUST train ... WE TRAIN WITH INTENTION ... and that habit, or the discipline of increasing freedom, occupies our mind in each second of the 86400 second day.*
 
