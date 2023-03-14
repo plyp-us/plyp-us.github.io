@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Brainstorming on Brainstorming"
-date:   2023-01-01 4:30:00
+title:  "Always Be Flanking"
+date:   2023-09-01 4:30:00
 categories: template
 ---
 
+
+# Cheat! Steal lifehacks that work! 
+
+Based on your experience with time mgmt and organizational toolchains, experiment with new systems of time mgmt and organization.
 
 # Brainstorming The Discipline of Brainstorming
 
