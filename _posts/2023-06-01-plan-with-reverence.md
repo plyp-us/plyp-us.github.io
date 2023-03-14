@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Overcoming Tedium"
-date:   2023-01-08 4:30:00
+title:  "Plan With Reverence"
+date:   2023-06-01 4:30:00
 categories: template
 ---
 
