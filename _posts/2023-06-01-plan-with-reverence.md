@@ -6,7 +6,15 @@ categories: template
 ---
 
 
-# How Do We Overcome Tedium?
+# Sharpen the axe
+
+Plan each day in order to optimize each of the other time blocks.
+
+When we FAIL to set our agenda, something else will. When we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
+
+# Optimize means embrace the daily grind
+
+How Do We Overcome Tedium?
 
 It's a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
 
@@ -18,7 +26,9 @@ People are actually plent SMART already about these things; they know ALL about 
 
 There's no problem with goalsetting ... it's fine ... it's not bad for you.
 
-## But the TEDIUM persists.
+## But the TEDIUM of the daily grind will persist
+
+JUST STAY AT IT
 
 And people have REALLY REALLY REALLY tried ... and they keep at; they keep trying ... they still keep going to the gym, because this year they are not going to quit going to the gym, but ***the same old tedium is alway there lurking around every corner*** ... and the tedium get's a LOT worse with age, by the time anyone is 60, they are completely on their old games.
 
@@ -42,6 +52,8 @@ Fuck motivational speeches!  The motivational speakers are like doctors ... they
 
 And ... even though it might be enormous fun ... it might be entertaining ... it might be a good bonding experience for your team ... but, as a general rule, fuck that tired old bullshit of attending a special camp or muster or promisekeeper's rally to get a blast of good Christian self-discipline sunshine blasted up the ol' rookter!  This is BETTER than what was outlined in the previous paragraph ... but it is still just not going to cut the ol' mustard ... it is still just not going to be enough to overcome the wrong-headedness of chasing the socially-appropriate *nice to have* goals that are not really *must have* goals. If your *must have* is not equal to the *must have* of a crack addict, then the tedium will drag you into the mud of the *quiet quit.*  Stop playing games with fantasies of making your high school football team, of being a Navy SEAL, of being some sort of perfect Christian husband/father/promise-keeper. GET REAL. 
 
-# The BIG WHY has to be INESCAPABLE
+# The BIG WHY has to be an INESCAPABLE ROUTINE
+
+Discipline equals FREEDOM ... when we don't set our agenda, something else will ... when we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
 
 Your Big Why has to be like a crack addiction that won't let go ... something that you'd crawl through shards of broken glass to get ... something that once the addiction is set results in a drive that deepens with each fix ... this is not a rational thing -- not something for your cognitive powers ... the Big Why has to ***FEEL*** more REAL than anything else in your entire existence ***feels*** to you ... your Big Why has to translate into a PERSONAL addiction, a genuine LOVE which simply will never allow for the old *quiet quit.*
