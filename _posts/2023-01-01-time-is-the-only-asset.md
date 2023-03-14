@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time's the ONLY asset we have"
+title:  "Time is the ONLY asset we have"
 date:   2023-01-01 4:30:00
 categories: template
 ---
