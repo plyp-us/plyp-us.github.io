@@ -8,6 +8,8 @@ categories: template
 
 # Cheat! Steal lifehacks that work! 
 
+NEVER settle; never get complacent ... ***ALWAYS BE FLANKING*** your own mindset. Develop ways to force yourself to get better self-awareness.
+
 Based on your experience with time mgmt and organizational toolchains, experiment with new systems of time mgmt and organization.
 
 # Brainstorming The Discipline of Brainstorming
