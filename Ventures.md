@@ -5,25 +5,31 @@ permalink: /Ventures/
 ---
 
 
-***Venturing*** is our process of ***engaging*** the world economically, culturally, thematically.  
+***Venturing*** is our process of *intelligence gathering*; it is about ***engaging*** the world economically, culturally, thematically.  
 
-We try to do this in an intensely practical manner ... by exploring possible business enterprise ideas (ie, self-sustaining ventures with products that offer customers something they need and will pay for or what is generally referred to as *the MVP with a compelling value proposition*) ... but we also look at creative or scientific research or different open source venture philantropies that could really move the needle.  We strongly favor open source.
+We READ and accelerate how we read, using curated lists and AI-recommenders to search better.
 
-# Listing of ventures 
+The point of annotification is read better, faster, more broadly, more deeply, to discern patterns better.
 
-Our aim is to read and use curated lists and AI to read faster, more broadly, more deeply, to discern patterns better ... we dogfood our reading in order to assist us in gathering intelligence ... our goal is to have roughly 125 ideas in the hopper, but we actually only focus on about 25 venture themes each a month, approximately one per day.
+Our approach is to have roughly 125 venturing ideas in the hopper, but we actually only focus on about 25 venture themes each a month, approximately one per day.  
 
-There are five venture themes that our weekly focus ... they do not necessarily rotate; we could focus on the same five next week. 
+There are five venture themes that our weekly focus ... it changes; they do not necessarily rotate according to any set plan; we could focus on the same five next week, but that's unlikely. 
 
-Of course, there might be only ONE main venture that we are *sorta really* focusing on, every single day, at this time.
+There will be only ONE main venture theme that we are *sorta really* focusing on, every single day, at this time ... the main thing is to focus on the process of intelligence gathering and venturing.
 
-1) Annotify.APP
+
+# Listing of venture themes 
+
+
+1) 86400.guru
+
+FIRST of all, we focus on bettering our time mgmt approach ... before we chop down trees, we sharpen the axe. Time is the only source of wealth we have. Time management discipline is our most important discipline.
+
+2) Annotify.APP
 
 * RSSistant
 * SheepDewg.py
 * Listify.wtf
-
-2) 86400.guru
 
 3) Funnier.Be
 
@@ -132,3 +138,4 @@ Nanofabricated omni sensing electrochemistry (NOSE) is about nanobiochemical sen
 24) Greenspace.GROUP
 
 25) PrairieNative.com
+
