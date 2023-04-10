@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Avoid Self-Deception"
+title:  "Avoid Self-Deception; OWN Your Practice"
 date:   2023-02-01 4:30:00
 categories: template
 ---
 
-Of course, you should use automation ... but improving the discipline is about the meta-programming skill of how you go about improving everything in the execution of the discipline, including anything you do to tinker with or refactor the automation you use to support the discipline.
+Of course, you should use automation ... and you should steal good ideas that work ... but you must OWN your practice. Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
 
-# Not just practicing with intention, but DAILY improvement of discipline
+# Not just practicing with intention, but you must OWN the DAILY improvement of your discipline
  
 Particular care should be taken to put time mgmt discipline not just into practice ... but to work diligently to OWN the discipline and to adjust, tailor, refactor and improve the discipline of the practice.
 
