@@ -1,6 +1,20 @@
-Particular care should be taken to put time mgmt discipline not just into practice, but to improve the discipline of the practice ... or otherwise, without repetition and *doing it*, the so-called knowledge becomes nothing more than self-deception.
+---
+layout: post
+title:  "Avoid Self-Deception"
+date:   2023-02-01 4:30:00
+categories: template
+---
 
-We find this kind of self-deception in people who read a Wikipedia entry and believe that they understand a topic ... it's more the case with the discipline of time management.
+
+# Not just practicing with intention, but improvement of discipline
+ 
+Particular care should be taken to put time mgmt discipline not just into practice ... but to work diligently to OWN the discipline and to adjust, tailor, refactor and improve the discipline of the practice.
+
+Without the repetition of OWNERSHIP ... and, actually *doing it* as if the discipline is a valued asset ... the so-called knowledge of the time management skillset becomes nothing more than self-deception.
+
+We, of course, will recognize this kind of self-deception in people who read a Wikipedia entry and believe that they understand a topic ... it's maybe even worse in the use of AI to generate content for code, a blog posting, a professional article or a legal brief.
+
+TIME MGMT has to be OWNED ... it's not just the skill itself, but it's more the case with the discipline of time management and the daily refinement of the discipline ... of course, you should use automation ... but this is about the meta-programming skill of how you go about improving the automation.
 
 It's not JUST that the only advantages come from actually doing something ... understanding something requires the repitition of improvement of the perfect repitition AND the correction of the imperfect repition.
 
