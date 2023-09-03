@@ -1,9 +1,9 @@
 # Site settings
-title: 86400.guru
+title: PLYP.us
 email: MarkBruns@MarkBruns.com
-description: When you don't manage your own time, you become a slave to someone else's agenda. Fork the 86400.guru repositories; make them your own.
+description: Practice Like You Play ... Eat Your Own Dogfood
 twitter_username: MarkBruns
-github_username:  86400guru
+github_username:  plyp-us
 
 # Build settings
 markdown: kramdown
