@@ -9,9 +9,9 @@ categories: template
 
 # Continuously ELEVATE your discipline
 
-You can elevate clouds. Elevation cannot be one bit theoretical ... it has to be practical; you have to do elevation the HARD way -- you cannot have somebody else do it for you ... it's entirely on YOU.
+You can elevate clouds. Elevation must be concrete and grounded in your current reality. Elevation must lift from the mass of where you currently are -- the start cannot be one bit theoretical; you cannot lift from what you desire or hope for ... you start where you are elevation has to be the HARD way. You cannot have somebody else elevate for you; you cannot ask someone to give it to you ... elevation is entirely on YOU.
 
-You have to start where you are. 
+***You have to start where you are.*** There is simply no other way. 
 
 You have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about assessing where you are.
 
