@@ -1,20 +1,26 @@
 ---
 layout: post
-title:  "Always Be Flanking"
+title:  "Practice Like You Play"
+title:  "Show Up So Damned Ready That You Don't Have To Get Ready"
 date:   2023-09-01 4:30:00
 categories: template
 ---
 
 
-# Cheat! Steal lifehacks that work! 
+# Continuously ELEVATE your discipline
 
-NEVER settle; never get complacent ... ***ALWAYS BE FLANKING*** your own mindset. Develop ways to force yourself to get better self-awareness.
+You can elevate clouds. Elevation cannot be one bit theoretical ... it has to be practical; you have to do elevation the HARD way -- you cannot have somebody else do it for you ... it's entirely on YOU.
 
-Based on your experience with time mgmt and organizational toolchains, experiment with new systems of time mgmt and organization.
+You have to start where you are. 
 
-# Brainstorming The Discipline of Brainstorming
+You have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about assessing where you are.
 
-To really brainstorm, we need to PUSH a bit on building the discipline of brainstorming itself.
+Your current discipline is whatever it is ... you cannot fix the past that got you here ... but ELEVATING your level of discipline begins with the earnest intention to elevate yourself to whatever your Creator intended you to become ... after that, it will be the actual second-by-second execution of that intention to *elevate FROM WHERE YOU ARE* ... elevation of discipline is HARD.
+
+
+# Brainstorm The Discipline of Brainstorming
+
+To really brainstorm your practice of elevation, you will need to PUSH a bit on your current envelope of ideas ... it's all about building the discipline of brainstorming itself.
 
 We cannot afford to just look at the top three or five as we normally do with *googlestorming* ideation. We really need to ***PUSH*** a bit harder and think ... or maybe daydream, or *BRAINSTORM* how we might improve brainstorming itself in the modern world of AI-assisted ideation.
 
