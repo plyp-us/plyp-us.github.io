@@ -1,21 +1,28 @@
 ---
 layout: post
 title:  "Practice Like You Play"
-title:  "Show Up So Damned Ready That You Don't Have To Get Ready"
+title:  "Continously ELEVATE your discipline"
 date:   2023-09-02 4:30:00
 categories: template
 ---
 
+***Show Up So Damned Ready That You Don't Have To Get Ready***
 
 # Continuously ELEVATE your discipline
 
-You can elevate clouds. Elevation must be concrete and grounded in your current reality. Elevation must lift from the mass of where you currently are -- the start cannot be one bit theoretical; you cannot lift from what you desire or hope for ... you start where you are elevation has to be the HARD way. You cannot have somebody else elevate for you; you cannot ask someone to give it to you ... elevation is entirely on YOU.
+You can elevate clouds or phantoms or hopes or fears. 
 
-***You have to start where you are.*** There is simply no other way. 
+Elevation must be concrete and grounded in your current reality.
 
-You have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about assessing where you are.
+Elevation is about lifting yourself from the mass of where you currently are. That's why the start of elevation cannot be one bit theoretical; you cannot lift from an arbitrary point or desire; you can't start from what you desire or hope or wish were true. You start where you KNOW you are. 
 
-Your current discipline is whatever it is ... you cannot fix the past that got you here ... but ELEVATING your level of discipline begins with the earnest intention to elevate yourself to whatever your Creator intended you to become ... after that, it will be the actual second-by-second execution of that intention to *elevate FROM WHERE YOU ARE* ... elevation of discipline is HARD.
+So elevation has to be the HARD way. You cannot have somebody else elevate for you; you cannot ask someone to give it to you ... elevation is entirely on YOU. There is simply no other way. ***You have to start where you are.***  
+
+Since you have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about *hitting bottom* or assessing what you are standing on.
+
+The current discipline that you are standing on right now is whatever it is ... you cannot redo the past that got you here ... you're here, exactly where you are. 
+
+After you have gotten real about where you are, ELEVATING your level of discipline begins with the earnest intention to elevate yourself to whatever your Creator intended you to become ... beyond that, it will be the actual second-by-second execution of that intention to *elevate FROM WHERE YOU ARE* ... elevation of discipline is HARD ... people know it's hard, so there is tendency to avoid it.
 
 
 # Brainstorm The Discipline of Brainstorming
