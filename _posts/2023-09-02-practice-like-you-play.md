@@ -2,7 +2,7 @@
 layout: post
 title:  "Practice Like You Play"
 title:  "Show Up So Damned Ready That You Don't Have To Get Ready"
-date:   2023-09-01 4:30:00
+date:   2023-09-02 4:30:00
 categories: template
 ---
 
