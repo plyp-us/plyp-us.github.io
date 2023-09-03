@@ -27,9 +27,12 @@ After you have gotten real about where you are, ELEVATING your level of discipli
 
 # Brainstorm The Discipline of Brainstorming
 
-To really brainstorm your practice of elevation, you will need to PUSH a bit on your current envelope of ideas ... it's all about building the discipline of brainstorming itself.
+**ESSENTIAL FIRST STEP: The most important, but usually forgotten step of brainstorming is MINIMALIZATION. It's not optional; it's essential.You have to ditch the bloatware, ditch those extra apps running in the background of your subconscious memory.  Get rid of the stuff that has you stuck in a rut. In order to be open and to critically, but fairly appraise the value of new ideas that MIGHT be better and MIGHT be worth trying, you really need to eliminate the stupid, needy habits of just being addicted to the comfort of being yourself.**
 
-We cannot afford to just look at the top three or five as we normally do with *googlestorming* ideation. We really need to ***PUSH*** a bit harder and think ... or maybe daydream, or *BRAINSTORM* how we might improve brainstorming itself in the modern world of AI-assisted ideation.
+
+To really brainstorm your practice of elevation, you will need to PUSH beyond your current envelope of ideas. The beauty of our modern age is that the best ideas of 8 billion other humans are literally at our fingertips now ... elevating the discipline of brainstorming all about building better habits in the discipline of brainstorming itself.
+
+We cannot afford to just look at the top three or five as we normally do with lazily *googlestorming* ideation. We cannot settle for what's easy. We really need to ***PUSH*** a bit harder and think ... or maybe daydream, or *BRAINSTORM* how we might improve brainstorming itself in the modern world of AI-assisted ideation.
 
 To brainstorm, we want to have roughly 125 pretty good ideas in the hopper ... we will try to get to each of these GOOD ideas sometime in the next 3 months, but the lower 100 will always be *on the bubble* as we ideate a better set of 100. 
 
