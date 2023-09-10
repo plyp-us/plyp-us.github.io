@@ -10,15 +10,15 @@ categories: template
 
 # Continuously ELEVATE your discipline
 
-You can elevate clouds or phantoms or hopes or fears. 
+Elevation requires heavy lifting ... you cannot elevate dreams or clouds or phantoms or hopes or fears -- you must elevate the heavy weight of your current self-discipline to raise the level where your discipline currently are.  Elevation must be stuck in concrete and firmly grounded in your current reality ... there's nothing heavier than lifting your current reality. That's why the start of elevation cannot be one bit theoretical; you cannot lift from an arbitrary point or desire; you can't start from what you desire or hope or wish were true. 
 
-Elevation must be concrete and grounded in your current reality.
+You start where you KNOW you are ... that includes everything entangled with your existence. 
 
-Elevation is about lifting yourself from the mass of where you currently are. That's why the start of elevation cannot be one bit theoretical; you cannot lift from an arbitrary point or desire; you can't start from what you desire or hope or wish were true. You start where you KNOW you are. 
+Eliminate your baggage, burdens, pointless relationships and the unexamined assumptions that keep you weighted down. Elevation is about lifting yourself from the mass of where you currently are ... you cannot waste the effort on elevating the extra baggage. Elevation has to be the HARD way ... but you should not make it harder than it is. Just as you cannot have somebody else elevate for you; you cannot elevate the level of someone else's discipline ... elevation is entirely on YOU; other people's elevation has to be on them ... there are ways that you can help people, but just writing a check or just giving them $ does not really help them in the longer, eternal sense. 
 
-So elevation has to be the HARD way. You cannot have somebody else elevate for you; you cannot ask someone to give it to you ... elevation is entirely on YOU. There is simply no other way. ***You have to start where you are.***  
+Elevation is HARD ... there is simply no other way. ***You have to start where you are.***  
 
-Since you have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about *hitting bottom* or assessing what you are standing on.
+Since you have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about *hitting bottom* or assessing the ground on which you are standing.
 
 The current discipline that you are standing on right now is whatever it is ... you cannot redo the past that got you here ... you're here, exactly where you are. 
 
