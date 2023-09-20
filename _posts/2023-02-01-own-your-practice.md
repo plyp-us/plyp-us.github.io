@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Avoid Self-Deception; OWN Your Practice"
+title:  "Avoid Self-Deception ... OWN Your Practice"
+subtitle:  "Extreme OWNERSHIP means constantly elevating your disciple"
 date:   2023-02-01 4:30:00
 categories: template
 ---
 
-Of course, you should use automation ... and you should steal good ideas that work ... but you must OWN your practice. Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
+Of course, you should use automation ... and you should steal good ideas that work ... but ***you must OWN your practice*** ... you must OWN every bit of who you are -- you especially have to polish, maintain, upgrade, level up, refurbish and improve those undisciplined little parts of you that you are working on. Never mind your house or your car or your guns or any of your stuff -- OWNING your practice is about YOU.
+
+Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
 
 # Not just practicing with intention, but you must OWN the DAILY improvement of your discipline
  
