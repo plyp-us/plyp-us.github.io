@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Plan With Reverence"
+title:  "Plan With Reverence ... Execute With Intention"
+subtitle:  "Continuously Sharpen The Axe ... Build the Muscle Memory of Your Plan"
 date:   2023-06-01 4:30:00
 categories: template
 ---
@@ -8,17 +9,19 @@ categories: template
 
 # Sharpen the axe
 
-Plan each day in order to optimize each of the other time blocks.
+Continuously, with each moment of mindfulness, work at build the muscle memory of your executed plan
 
-When we FAIL to set our agenda, something else will. When we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
+Your plans will never be perfect; they will need to updated and improved on the fly, but you must prepare and plan each day in order to execute; executing your plan is how you will optimize each of your other future, remaining time blocks ... the past does not matter a great deal, but you should be thinking about the next 500,000 hours.
+
+When we FAIL to set our agenda, somebody or something else will ... many people would really rather not ever have to set their own agenda, so they get jobs working for an employer who will set their agenda for them ... when you are self-employed, you never abdicate this responsibility ... setting your agenda for the next day is a 24-hour/day vocation. 
+
+It's extremely important, as you are setting your agenda, to understand YOUR WHY. All of the plans in your agenda have to be about YOUR WHY ... they should not be about other people's why. You cannot fix other people -- you can only worry about YOUR WHY and specifically only about your agenda for the coming minutes, hours, and days. Be extremely careful about what you desire or what your agenda is about. When we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
 
 # Optimize means embrace the daily grind
 
-How Do We Overcome Tedium?
+LOVING your Creator is about embracing YOUR WHY. When people ask, "How Do We Overcome Boredom or Tedium?" we should understand that this is indeed a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
 
-It's a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
-
-Tedium drives an exquisitely subtle behavior, something that many can/do hide, something that has been around for a very long time ... but maybe only recently picked up a popular name ... that something is the ***OL'*** *quiet quit*.
+Tedium ... or failing to respect our WHY, failing to appreciate and LOVE our Creator, drives an exquisitely subtle behavior, something that many can/do hide, something that has been around for a very long time ... but maybe only recently picked up a popular name ... that something is the ***OL'*** *quiet quit* on ourselves ... we get a little bored, so we sorta look around for distractions and take a mini-vacation from ourselves, from our WHY.
 
 As much as people want to strenuously deny this, most and maybe ALL people have a VERY LONG HISTORY of *quiet quitting* on their goals and new year's resolutions ... in fact many, or maybe even most people, no longer go through any kind of process of making new year's resolutions OR writing down their SMART goals because they know that it doesn't work. A lot of people regard things slight Specific Measurable Achievable Realistic Time-bound goals as even worse than just a waste of time ... they feel the same way about New Year's Resolution's ... *I'm not going to do that crap; it's all just a bullshit self-delusional mindgame.* 
 
