@@ -1,9 +1,9 @@
 # Site settings
-title: PLYP.us
+title: Practice Like You Play
 email: MarkBruns@MarkBruns.com
-description: Practice Like You Play ... Eat Your Own Dogfood
+description: Eat Your Own Dogfood
 twitter_username: MarkBruns
-github_username:  plyp-us
+github_username:  PLYP-US
 
 # Build settings
 markdown: kramdown
