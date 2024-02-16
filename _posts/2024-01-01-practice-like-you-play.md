@@ -2,7 +2,7 @@
 layout: post
 title:  "Practice Like You Play"
 title:  "Continously ELEVATE your discipline"
-date:   2023-09-02 4:30:00
+date:   2024-01-01 4:30:00
 categories: template
 ---
 

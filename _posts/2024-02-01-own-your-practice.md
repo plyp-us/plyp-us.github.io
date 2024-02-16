@@ -2,7 +2,7 @@
 layout: post
 title:  "Avoid Self-Deception ... OWN Your Practice"
 subtitle:  "Extreme OWNERSHIP means constantly elevating your disciple"
-date:   2023-02-01 4:30:00
+date:   2024-02-01 4:30:00
 categories: template
 ---
 
