@@ -6,24 +6,32 @@ date:   2024-01-01 4:30:00
 categories: template
 ---
 
+
+CONSISTENCY! CONSISTENCY! CONSISTENCY!
+
+# Practice Like You Play
+
 ***Show Up So Damned Ready That You Don't Have To Get Ready***
 
-# Continuously ELEVATE your discipline
+## Practice With Intensity
 
-Elevation requires heavy lifting ... you cannot elevate dreams or clouds or phantoms or hopes or fears -- you must elevate the heavy weight of your current self-discipline to raise the level where your discipline currently are.  Elevation must be stuck in concrete and firmly grounded in your current reality ... there's nothing heavier than lifting your current reality. That's why the start of elevation cannot be one bit theoretical; you cannot lift from an arbitrary point or desire; you can't start from what you desire or hope or wish were true. 
+As you do the reps, THINK about what you are doing. Continuously ELEVATE your discipline so that your consistency is an mindfully immersive experience, ie you are not just going through the motion. 
+
+Elevation of discipline requires heavy lifting ... you cannot elevate dreams or clouds or phantoms or hopes or fears -- you must elevate the heavy weight of your current self-discipline to raise the level where your discipline currently are.  Elevation must be stuck in concrete and firmly grounded in your current reality ... there's nothing heavier than lifting your current reality. That's why the start of elevation cannot be one bit theoretical; you cannot lift from an arbitrary point or desire; you can't start from what you desire or hope or wish were true. 
+
+## Develop Your Self-Coaching Practice From Where You Are
 
 You start where you KNOW you are ... that includes everything entangled with your existence. 
 
 Eliminate your baggage, burdens, pointless relationships and the unexamined assumptions that keep you weighted down. Elevation is about lifting yourself from the mass of where you currently are ... you cannot waste the effort on elevating the extra baggage. Elevation has to be the HARD way ... but you should not make it harder than it is. Just as you cannot have somebody else elevate for you; you cannot elevate the level of someone else's discipline ... elevation is entirely on YOU; other people's elevation has to be on them ... there are ways that you can help people, but just writing a check or just giving them $ does not really help them in the longer, eternal sense. 
 
-Elevation is HARD ... there is simply no other way. ***You have to start where you are.***  
+Elevation of discipline is HARD ... there is simply no other way. ***You have to start where you are.***  
 
 Since you have to reach down and lift yourself up by your own effort ... before you can even think about elevating, you have to get real about *hitting bottom* or assessing the ground on which you are standing.
 
 The current discipline that you are standing on right now is whatever it is ... you cannot redo the past that got you here ... you're here, exactly where you are. 
 
 After you have gotten real about where you are, ELEVATING your level of discipline begins with the earnest intention to elevate yourself to whatever your Creator intended you to become ... beyond that, it will be the actual second-by-second execution of that intention to *elevate FROM WHERE YOU ARE* ... elevation of discipline is HARD ... people know it's hard, so there is tendency to avoid it.
-
 
 # Brainstorm The Discipline of Brainstorming
 
