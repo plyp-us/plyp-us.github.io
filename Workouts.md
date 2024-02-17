@@ -19,25 +19,25 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 1) Calisthenics -- alternate burpees, pushups, sit-ups, squats, burpees, pushups, sit-ups, squats ... possibly improving with or changing up with kettlebell weighted yoga
 
-2) Walk / hike with weighted pack
+2) Speedwalk / hike with weighted pack
 
 3) Landscaping, gardening, weeding, lifting/carrying plant bags
 
-4) Housekeeping/5S one room per day
+4) BJJ ... Rickson Academy; Gracie 32 Principles
 
-5) BJJ ... one drill to drive home application of one of the Gracie 32 Principles
+5) Stretching/flexibility/Rehab exercises
 
-6) Learn one step of a Tai chi form per day
+6) Learn one step of a old school Tai chi form per day
 
-7) Heavy bag
+7) Heavy bag, speed drills, shadowboxing, footwork drills
 
-8) Meditative Qi Gong
+8) Moving soil bags instead of kettlebells
 
 9) Yoga For Regular Guys 
 
-10) Stretching/flexibility
+10) Housekeeping/5S one room per day
 
-11) Rehab exercises
+11) Meditative Qi Gong
 
 12) Chin na, joint locks and gripping/siezing exercises
 
@@ -45,9 +45,9 @@ Our aim with this listing is to never have to think about our next workout ... w
 
 14) Stability ball or balance
 
-15) Sandbags for kettlebells
+15) Resistance bands
 
-16) Resistance bands
+16) 
 
 17)
 
