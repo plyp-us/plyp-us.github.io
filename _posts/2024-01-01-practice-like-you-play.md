@@ -11,7 +11,7 @@ CONSISTENCY! CONSISTENCY! CONSISTENCY!
 
 # Practice Like You Play
 
-***Show Up So Damned Ready That You Don't Have To Get Ready***
+***Show Up So Damned Ready ... That You Don't Have To Get Ready***
 
 ## Practice With Intensity
 
