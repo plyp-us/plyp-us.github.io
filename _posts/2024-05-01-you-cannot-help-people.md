@@ -1,33 +1,35 @@
 ---
 layout: post
-title:  "Plan With Reverence ... Execute With Intention"
-subtitle:  "Continuously Sharpen The Axe ... Build the Muscle Memory of Your Plan"
+title:  "You Cannot Help People ... Because 'They Know That Already'"
+subtitle:  "Optimize means EMBRACING the daily grind"
 date:   2024-05-01 4:30:00
 categories: template
 ---
 
 
-# Sharpen the axe
+***"Yeah, yeah, yeah ... I know that already."*** 
 
-Continuously, with each moment of mindfulness, work at build the muscle memory of your executed plan
+You cannot really help people, ***especially oldfuckers***, by telling them anything.
 
-Your plans will never be perfect; they will need to updated and improved on the fly, but you must prepare and plan each day in order to execute; executing your plan is how you will optimize each of your other future, remaining time blocks ... the past does not matter a great deal, but you should be thinking about the next 500,000 hours.
+People, ***especially oldfuckers***, are actually plent SMART already about all of these things; they know ALL about good intentions ... they've heard before.
 
-When we FAIL to set our agenda, somebody or something else will ... many people would really rather not ever have to set their own agenda, so they get jobs working for an employer who will set their agenda for them ... when you are self-employed, you never abdicate this responsibility ... setting your agenda for the next day is a 24-hour/day vocation. 
+They are more than familiar with the endless array of [different mnemonic devices for goalsetting](https://www.developgoodhabits.com/mnemonic-devices/) ... they have been to more self-development seminars, bootcamps, retreats than they can count ... they have listened to decades worth of self-help audiobooks as they commute ... as they go for their daily run or walk they listen even more podcasts to augment their storehouse of time-proven, old reliable ideas from DaleCarnigie, NapoleonHill, TonyRobbins, StephenCovey, JohnMaxwell, Eckhart Tolle, RobertGreene, JoeDispenza.
 
-It's extremely important, as you are setting your agenda, to understand YOUR WHY. All of the plans in your agenda have to be about YOUR WHY ... they should not be about other people's why. You cannot fix other people -- you can only worry about YOUR WHY and specifically only about your agenda for the coming minutes, hours, and days. Be extremely careful about what you desire or what your agenda is about. When we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
+People are almost too SMART when it comes to all of the material out there now, eg not just Google, Wikipedia or YouTube, now we have AI assistants.
 
-# Optimize means embrace the daily grind
+There's no good reason for people not to be able double-down on their attempts to mentally program themselves to have better habits or to break the bad habits of being themselves. It's all there ... FOR FREE ... like body weight exercises; nobody NEEDS to have a gym or dojo membership to get in shape. They already have everything they NEED.
+
+It's like SMART objectives, SMART goals ... there's no problem with goalsetting ... it's a commendable thing to do ... and, in case, you've forgotten how do something commendable, like developing SMART objectives, you can google the keywords and you will find out more excellent ideas than anyone ever knew about this.  The IDEAS are certainly not bad for you ... but the problem, if there is one, is that the commendable things actually have to be DONE ***by you*** ... with no cheating ... on a daily or even moment by moment basis ... and that's where the rubber meets the road ... that's where the daily grind is ... 
+
+That's where the same old, boring, "*Yeah, yeah, yeah ... I know that already*" tedium creeps in ... because you don't already ***KNOW*** it, in the Biblical sense of ***knowing*** it. You cannot really help people, especially oldfuckers, by telling them anything ... but people PREDOMINANTLY tell themselves a dangerous lies, ie that somebody else has it easier, and when you believe that lie, there's no way to help you.
+
+# Optimize means EMBRACING the daily grind
 
 LOVING your Creator is about embracing YOUR WHY. When people ask, "How Do We Overcome Boredom or Tedium?" we should understand that this is indeed a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
 
 Tedium ... or failing to respect our WHY, failing to appreciate and LOVE our Creator, drives an exquisitely subtle behavior, something that many can/do hide, something that has been around for a very long time ... but maybe only recently picked up a popular name ... that something is the ***OL'*** *quiet quit* on ourselves ... we get a little bored, so we sorta look around for distractions and take a mini-vacation from ourselves, from our WHY.
 
 As much as people want to strenuously deny this, most and maybe ALL people have a VERY LONG HISTORY of *quiet quitting* on their goals and new year's resolutions ... in fact many, or maybe even most people, no longer go through any kind of process of making new year's resolutions OR writing down their SMART goals because they know that it doesn't work. A lot of people regard things slight Specific Measurable Achievable Realistic Time-bound goals as even worse than just a waste of time ... they feel the same way about New Year's Resolution's ... *I'm not going to do that crap; it's all just a bullshit self-delusional mindgame.* 
-
-People are actually plent SMART already about these things; they know ALL about good intentions ... just like other good, gung ho souls, they are more than familiar with the endless array of [different mnemonic devices for goalsetting](https://www.developgoodhabits.com/mnemonic-devices/) ... they have been to more self-development seminars, bootcamps, retreats than they can count ... they have listened to decades worth of self-help audiobooks as they commute ... as they go for their daily run or walk they listen even more podcasts to augment their storehouse of time-proven, old reliable ideas from DaleCarnigie, NapoleonHill, TonyRobbins, StephenCovey, JohnMaxwell, Eckhart Tolle, RobertGreene, JoeDispenza ... people are more than SMART when it comes to double-down on their attempts to mentally program themselves to have better habits or to break the bad habits of being themselves.
-
-There's no problem with goalsetting ... it's fine ... it's not bad for you.
 
 ## But the TEDIUM of the daily grind will persist
 
